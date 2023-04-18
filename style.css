@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url(./cine-2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed ;
+    background-size: cover;
+    color: yellow;
+    
+  }
+  
+  #contenedor {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    text-align: center;
+  }
+  
+  button {
+    margin: 10px;
+  }
